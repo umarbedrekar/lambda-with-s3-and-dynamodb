@@ -15,7 +15,8 @@ This project outlines a **serverless media upload hub** built using **AWS Lambda
 
 ## 🏗️ Project Architecture Diagram
 
-"C:\aws lamda screenshot\Untitled Diagram.drawio (1).svg"
+<img width="457" height="275" alt="Screenshot 2025-11-26 213503" src="https://github.com/user-attachments/assets/f30c301a-340f-4d8c-97f0-2152962b953c" />
+
 
 
 ---
