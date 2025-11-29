@@ -29,7 +29,8 @@ Below are the main components of the project, each supported by screenshots.
 
 A web form where users enter **name**, **caption**, and upload a media file.
 
-![screenshot (217)](https://github.com/user-attachments/assets/17140a8c-7981-414c-a963-4a6989f85b5d)
+![screenshot (217)](https://github.com/user-attachments/assets/0a209532-aeca-43c7-bd49-8092eb733be7)
+
 
 
 ### 2. IAM Role Permissions
